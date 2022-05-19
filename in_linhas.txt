@@ -1,0 +1,42 @@
+Linha1 dourado 5
+La Défense > Charles de Gaulle Étolle
+Charles de Gaulle Étolle > Châtelet
+Châtelet > Gare de l'Est
+Châtelet > Bastille
+Bastille > Nation
+Nation > Château de Vincennes
+Linha2 azul 4
+Porte Dauphine > Charles de Gaulle Étolle
+Charles de Gaulle Étolle > Barbes Rochechouart
+Barbes Rochechouart > Stalingrad
+Stalingrad > Jaurês
+Jaurês > Nation
+Linha4 roxo x
+Porte d' Orléans > Denfert Rochereau
+Denfert Rochereau > Raspail
+Raspail > Montparnasse Bienvenue
+Montparnasse Bienvenue > Châtelet
+Château > Gare de l'Est
+Gare de l'Est > Gare du Nord
+Gare du Nord > Barbes Rochechouart
+Barbes Rochechouart > Porte de Cligmancourt
+Linha5 laranja 6
+Place d'Italle > Bastille
+Bastille > Oberkampf
+Oberkampf > République
+République > Gare de l'Est
+Gare de l'Est > Jaurês
+Jaurês > Bobigny Pablo Picasso
+Linha6 verde 4
+Charles de Gaulle Étolle > Montparnasse Bienvenue
+Montparnasse Bienvenue > Denfert Rochereau
+Denfert Rochereau > Place d'Italle
+Place d'Italle > Nation
+Linha9 verdelimao 4
+Pont de Sèveres > République
+République > Oberkampf
+Oberkampf > Nation
+Nation > Mairie de Montreull
+Linha11 marrom x
+Mairie des Lilas > République
+République > Châtelet

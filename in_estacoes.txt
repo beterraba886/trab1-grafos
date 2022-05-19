@@ -1,0 +1,25 @@
+La Défense > 10 25
+Charles de Gaulle Étolle > 20 43
+Châtelet > 55 55
+Nation > 80 60
+Château de Vincennes > 93 65
+Porte Dauphine > 13 43
+Barbes Rochechouart > 56 30
+Stalingrad > 63 33
+Jaurês > 68 38
+Porte d' Orléans > 48 90
+Denfert Rochereau > 52 80
+Raspail > 50 78
+Montparnasse Bienvenue > 40 70
+Gare de l'Est > 60 40
+Gare du Nord > 52 33
+Porte de Cligmancourt > 53 20
+Place d'Italle > 72 85
+Bastille > 63 55
+Oberkampf > 78 59
+République > 75 48
+Bobigny Pablo Picasso > 90 20
+Pont de Sèveres > 7 90
+Mairie de Montreull > 90 52
+Mairie des Lilas > 92 30
+Gare Montparmasse > 40 77
