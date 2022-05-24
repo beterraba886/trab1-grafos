@@ -1,42 +1,50 @@
-Linha1 dourado 5
-La Défense > Charles de Gaulle Étolle
-Charles de Gaulle Étolle > Châtelet
-Châtelet > Gare de l'Est
-Châtelet > Bastille
-Bastille > Nation
-Nation > Château de Vincennes
-Linha2 azul 4
-Porte Dauphine > Charles de Gaulle Étolle
-Charles de Gaulle Étolle > Barbes Rochechouart
-Barbes Rochechouart > Stalingrad
-Stalingrad > Jaurês
-Jaurês > Nation
-Linha4 roxo x
-Porte d' Orléans > Denfert Rochereau
-Denfert Rochereau > Raspail
-Raspail > Montparnasse Bienvenue
-Montparnasse Bienvenue > Châtelet
-Château > Gare de l'Est
-Gare de l'Est > Gare du Nord
-Gare du Nord > Barbes Rochechouart
-Barbes Rochechouart > Porte de Cligmancourt
+Linha1 dourado 8
+La Défense>Charles de Gaulle Étolle
+Charles de Gaulle Étolle>Franklin D. Roosevelt
+Franklin D. Roosevelt>Châtelet
+Châtelet>Gare de l'Est
+Châtelet>Hôtel de Ville
+Hôtel de Ville>Bastille
+Bastille>Nation
+Nation>Château de Vincennes
+Linha2 azul 6
+Porte Dauphine>Charles de Gaulle Étolle
+Charles de Gaulle Étolle>Barbes Rochechouart
+Barbes Rochechouart>Stalingrad
+Stalingrad>Jaurês
+Jaurês>Belleville
+Belleville>Nation
+Linha4 roxo 8
+Porte d' Orléans>Denfert Rochereau
+Denfert Rochereau>Raspail
+Raspail>Montparnasse Bienvenue
+Montparnasse Bienvenue>Châtelet
+Châtelet>Gare de l'Est
+Gare de l'Est>Gare du Nord
+Gare du Nord>Barbes Rochechouart
+Barbes Rochechouart>Porte de Cligmancourt
 Linha5 laranja 6
-Place d'Italle > Bastille
-Bastille > Oberkampf
-Oberkampf > République
-République > Gare de l'Est
-Gare de l'Est > Jaurês
-Jaurês > Bobigny Pablo Picasso
-Linha6 verde 4
-Charles de Gaulle Étolle > Montparnasse Bienvenue
-Montparnasse Bienvenue > Denfert Rochereau
-Denfert Rochereau > Place d'Italle
-Place d'Italle > Nation
-Linha9 verdelimao 4
-Pont de Sèveres > République
-République > Oberkampf
-Oberkampf > Nation
-Nation > Mairie de Montreull
-Linha11 marrom x
-Mairie des Lilas > République
-République > Châtelet
+Place d'Italle>Bastille
+Bastille>Oberkampf
+Oberkampf>République
+République>Gare de l'Est
+Gare de l'Est>Jaurês
+Jaurês>Bobigny Pablo Picasso
+Linha6 verde 5
+Charles de Gaulle Étolle>Trocadéro
+Trocadéro>Montparnasse Bienvenue
+Montparnasse Bienvenue>Denfert Rochereau
+Denfert Rochereau>Place d'Italle
+Place d'Italle>Nation
+Linha9 verdelimao 6
+Pont de Sèveres>Trocadéro
+Trocadéro>Franklin D. Roosevelt
+Franklin D. Roosevelt>République
+République>Oberkampf
+Oberkampf>Nation
+Nation>Mairie de Montreull
+Linha11 marrom 4
+Mairie des Lilas>Belleville
+Belleville>République
+République>Hôtel de Ville
+Hôtel de Ville>Châtelet

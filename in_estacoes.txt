@@ -1,25 +1,28 @@
-La Défense > 10 25
-Charles de Gaulle Étolle > 20 43
-Châtelet > 55 55
-Nation > 80 60
-Château de Vincennes > 93 65
-Porte Dauphine > 13 43
-Barbes Rochechouart > 56 30
-Stalingrad > 63 33
-Jaurês > 68 38
-Porte d' Orléans > 48 90
-Denfert Rochereau > 52 80
-Raspail > 50 78
-Montparnasse Bienvenue > 40 70
-Gare de l'Est > 60 40
-Gare du Nord > 52 33
-Porte de Cligmancourt > 53 20
-Place d'Italle > 72 85
-Bastille > 63 55
-Oberkampf > 78 59
-République > 75 48
-Bobigny Pablo Picasso > 90 20
-Pont de Sèveres > 7 90
-Mairie de Montreull > 90 52
-Mairie des Lilas > 92 30
-Gare Montparmasse > 40 77
+La Défense>10>75
+Charles de Gaulle Étolle>32>61
+Franklin D. Roosevelt>37>52
+Châtelet>55>45
+Hôtel de Ville>58>46
+Nation>80>40
+Château de Vincennes>93>35
+Porte Dauphine>13>57
+Barbes Rochechouart>56>70
+Stalingrad>70>69
+Jaurês>75>64
+Belleville>76>59
+Porte d' Orléans>48>10
+Denfert Rochereau>52>20
+Raspail>50>22
+Montparnasse Bienvenue>40>30
+Gare de l'Est>60>60
+Gare du Nord>63>62
+Porte de Cligmancourt>53>80
+Place d'Italle>72>15
+Bastille>63>45
+Oberkampf>73>49
+République>70>52
+Bobigny Pablo Picasso>90>80
+Pont de Sèveres>7>10
+Trocadéro>27>49
+Mairie de Montreull>90>48
+Mairie des Lilas>92>70
